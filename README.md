@@ -1,5 +1,3 @@
-Collecting workspace information# CS5490 Arduino Energy Meter Library
-
 This library provides an Arduino interface for the Cirrus Logic CS5490 single-phase power/energy monitoring IC. The CS5490 is designed for power/energy measurement in AC power meters and other power monitoring applications.
 
 
