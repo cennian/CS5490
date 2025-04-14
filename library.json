@@ -1,0 +1,19 @@
+{
+  "name": "CS5490",
+  "version": "1.0.0",
+  "description": "Arduino library for the Cirrus Logic CS5490 energy measurement IC (UART interface)",
+  "keywords": ["energy", "power", "monitor", "CS5490", "energy meter"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cennian/CS5490.git"
+  },
+  "authors": [
+    {
+      "name": "Ihtesham Ullah",
+      "email": "ihtesham.ullah@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": ["espressif32", "espressif8266", "atmelavr"]
+}
